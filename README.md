@@ -31,7 +31,7 @@ Dự án này là một chatbot được xây dựng bằng Streamlit, sử dụ
 1. **Clone repository**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/trannam1084/RAG-Chatbot.git
 cd "RAG-Chatbot"
 ```
 
